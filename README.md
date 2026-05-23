@@ -99,14 +99,15 @@ Projects related to:
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=fforesta-dev&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=fforesta-dev&layout=compact&theme=transparent&hide_border=true"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fforesta-dev&theme=github_dark" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fforesta-dev&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fforesta-dev&theme=github_dark" />
+</p>
+
+---
 
 ## 📫 Let's Connect
 
