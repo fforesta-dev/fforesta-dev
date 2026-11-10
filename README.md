@@ -32,6 +32,15 @@ A free, unofficial study companion: all 15 books with chapter guides, a daily st
 
 </td>
 </tr>
+</table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/lehiquest-110-1.jpg" width="230" alt="LehiQuest: book cover"/>
+  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/lehiquest-110-2.jpg" width="230" alt="LehiQuest: today's chapter"/>
+  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/lehiquest-110-3.jpg" width="230" alt="LehiQuest: quiz"/>
+</p>
+
+<table>
 <tr>
 <td width="100" valign="top"><img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/il-mio-rione.png" width="84" alt="Il Mio Rione icon"/></td>
 <td valign="top">
@@ -49,10 +58,9 @@ A free, unofficial app for wards and branches of The Church of Jesus Christ of L
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/lehiquest-100-1.jpg" width="190" alt="LehiQuest: book cover"/>
-  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/lehiquest-100-2.jpg" width="190" alt="LehiQuest: today's chapter"/>
-  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/lehiquest-100-3.jpg" width="190" alt="LehiQuest: quiz"/>
-  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/lehiquest-100-4.jpg" width="190" alt="LehiQuest: books and cover side by side"/>
+  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/il-mio-rione-110-1.jpg" width="230" alt="Il Mio Rione: announcements"/>
+  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/il-mio-rione-110-2.jpg" width="230" alt="Il Mio Rione: calendar"/>
+  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/il-mio-rione-110-3.jpg" width="230" alt="Il Mio Rione: service"/>
 </p>
 
 ---
@@ -83,12 +91,12 @@ A free, unofficial app for wards and branches of The Church of Jesus Christ of L
 I'm a **Senior Learning & Development Coordinator** for global teams, and I come from years of **translation and localization (EN · IT · FR)**. It shows in what I build: apps that teach, and that ship in more than one language from day one.
 
 **Graduated**
-- 🎓 **Software Development** · Brigham Young University–Idaho
-- 🎓 **Applied Linguistic Mediation (Interpreting and Translation)** · University of Perugia
-- 📜 Three postgraduate master's in translation (audiovisual, literary, specialized)
+- 🎓 **Bachelor's in Software Development** · Brigham Young University–Idaho
+- 🎓 **Bachelor's in Applied Linguistic Mediation (Interpreting and Translation)** · University of Perugia
+- 📜 Three master's programs in translation (audiovisual, literary, specialized)
 
 **Studying now**
-- 📚 **Information Technology – System Administration** · BYU-Pathway Worldwide (BYU–Idaho · Ensign College)
+- 📚 **Bachelor's in Information Technology – System Administration** · BYU-Pathway Worldwide (BYU–Idaho · Ensign College)
 - 🔐 **MSc Cyber Security** · University of Liverpool (from November 2026)
 - 💻 **Full-Stack AI Developer** · Epicode
 
