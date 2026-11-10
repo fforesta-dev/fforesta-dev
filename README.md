@@ -49,10 +49,10 @@ A free, unofficial app for wards and branches of The Church of Jesus Christ of L
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/lehiquest-1.jpg" width="190" alt="LehiQuest: book cover"/>
-  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/lehiquest-2.jpg" width="190" alt="LehiQuest: today's chapter"/>
-  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/lehiquest-3.jpg" width="190" alt="LehiQuest: quiz"/>
-  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/lehiquest-4.jpg" width="190" alt="LehiQuest: books and cover side by side"/>
+  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/lehiquest-100-1.jpg" width="190" alt="LehiQuest: book cover"/>
+  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/lehiquest-100-2.jpg" width="190" alt="LehiQuest: today's chapter"/>
+  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/lehiquest-100-3.jpg" width="190" alt="LehiQuest: quiz"/>
+  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/lehiquest-100-4.jpg" width="190" alt="LehiQuest: books and cover side by side"/>
 </p>
 
 ---
