@@ -1,148 +1,101 @@
-# Hi, I'm Francesco Foresta 👋
+<div align="center">
 
-## Senior Learning & Development Coordinator | Software Development Graduate | Master of Information Technology Student | Translator
+# Hi, I'm Francesco 👋
 
-Welcome to my GitHub profile!
+### I build apps people actually use.
 
-I am a multidisciplinary professional combining experience in **Learning & Development, Translation & Localization, Software Development, and Information Technology**.
+Mobile & web developer · Founder of [FF Horizon Studio](https://github.com/FF-Horizon-Studio) · Italy 🇮🇹<br/>
+Two apps live on the App Store and Google Play, built end to end: idea, design, code, backend and store release.
 
-I work as a **Senior Learning & Development Coordinator**, supporting training programs and learning operations for global teams. I recently graduated in **Software Development from Brigham Young University–Idaho** and am now pursuing a **Master of Information Technology at Illinois Institute of Technology**.
+[![Website](https://img.shields.io/badge/ffhorizon.studio-1F4E4A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ffhorizon.studio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francescoforesta/)
+[![Email](https://img.shields.io/badge/hello@ffhorizon.studio-B8862B?style=for-the-badge&logoColor=white)](mailto:hello@ffhorizon.studio)
 
-My background spans languages, technology, and learning, and I enjoy building practical solutions that connect these areas. I am particularly interested in software engineering, cloud technologies, automation, APIs, and the use of technology to improve learning and business processes.
-
----
-
-## 🚀 About Me
-
-* 🌍 Based in Italy
-* 🎓 **Software Development graduate — Brigham Young University–Idaho**
-* 🎓 **Master of Information Technology student — Illinois Institute of Technology**
-* 💼 Senior Learning & Development Coordinator
-* 🌐 Professional Translator & Interpreter (EN • IT • FR)
-* ✈️ Travel Consultant
-* 💻 Interested in:
-
-  * Software Engineering
-  * Web Development
-  * Cloud Computing
-  * Automation
-  * APIs
-  * Python Development
-  * Learning Technologies
-  * User Experience
-
-### 🎯 Current Goals
-
-* Build a strong portfolio of real-world software projects
-* Strengthen full-stack development and software engineering skills
-* Deepen my knowledge of cloud computing and IT infrastructure
-* Improve software architecture and API design
-* Explore automation and AI-assisted development
-* Contribute to open-source projects
-
----
-
-## 🛠️ Technologies & Tools
-
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
 </div>
 
-### Technical Skills
-
-* HTML / CSS
-* JavaScript
-* Python
-* Git & GitHub
-* REST APIs
-* MongoDB
-* SQL
-* Node.js
-* VS Code
-* Learning Management Systems
-* Training Operations
-
 ---
 
-## 📂 Featured Projects
+## 📱 Shipped and live
 
-### 🎬 Movie API
+<table>
+<tr>
+<td width="100" valign="top"><img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/lehiquest.png" width="84" alt="LehiQuest icon"/></td>
+<td valign="top">
 
-REST API project featuring:
+**LehiQuest** · *Learn the Book of Mormon by playing*<br/>
+A free, unofficial study companion: all 15 books with chapter guides, a daily study rhythm with reminders, 7 games on 3 levels, search and cross-references. Italian and English, content built in, optional account with real-time sync across devices.
 
-* CRUD operations
-* Authentication
-* MongoDB
-* API documentation
-* Testing
+`Expo` `React Native` `TypeScript` `Supabase` `EAS`
 
-### 🌐 Handcrafted Haven
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/app/lehiquest/id6826171628)
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=studio.ffhorizon.lehiquest)
 
-Team web development project focused on:
+</td>
+</tr>
+<tr>
+<td width="100" valign="top"><img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/il-mio-rione.png" width="84" alt="Il Mio Rione icon"/></td>
+<td valign="top">
 
-* Frontend development
-* User experience
-* Collaborative development
-* Deployment workflows
+**Il Mio Rione** · *The app of your local congregation*<br/>
+A free, unofficial app for wards and branches of The Church of Jesus Christ of Latter-day Saints: announcements, calendar, sacrament meeting, service and mutual help. Built to host many congregations from day one.
 
-### 🧠 Mental Health Journal Assistant
+`Expo` `React Native` `TypeScript` `Supabase` `Realtime`
 
-Python application designed for:
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/app/il-mio-rione/id6821635768)
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=studio.ffhorizon.ilmiorione)
 
-* Mood tracking
-* Journaling
-* Personal reflection
-
-### 📈 Learning & Development Initiatives
-
-Professional projects involving:
-
-* Training design
-* Employee learning
-* Learning technologies
-* Process improvement
-* Workflow automation
-
----
-
-## 📚 Currently Learning
-
-As part of my **Master of Information Technology**, I am continuing to expand my knowledge in areas such as:
-
-* ☁️ Cloud Computing Technologies
-* 🖥️ Operating Systems & Virtualization
-* 🌐 IT Infrastructure
-* 🔐 Information Technology & Security
-* 🏗️ Software and Systems Architecture
-* 🤖 Automation & AI-assisted Development
-
----
-
-## 📊 GitHub Stats
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fforesta-dev&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fforesta-dev&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fforesta-dev&theme=github_dark" />
+  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/lehiquest-1.jpg" width="190" alt="LehiQuest: the books"/>
+  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/lehiquest-2.jpg" width="190" alt="LehiQuest: a book card"/>
+  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/lehiquest-3.jpg" width="190" alt="LehiQuest: a chapter guide"/>
+  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/lehiquest-4.jpg" width="190" alt="LehiQuest: crossword game"/>
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 🧪 More projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/francescoforesta/?locale=en-US)
+| Project | What it does | Stack | |
+|---|---|---|---|
+| **[VoyageAI](https://github.com/fforesta-dev/voyage-ai)** | AI travel planner: personalized itineraries from budget, dates and preferences. BYU–Idaho senior project. | TypeScript · C# / .NET · Azure | [Live](https://voyage-ai-ashen-pi.vercel.app) |
+| **[Language Learning Companion](https://github.com/fforesta-dev/language-learning-companion)** | Vocabulary PWA: word of the day with audio, translation, quizzes, favorites. WCAG 2.1 AA. | JavaScript · PWA · REST APIs | [Live](https://francescoforesta.is-a.dev/language-learning-companion/) |
+| **[Snake Arcade](https://github.com/fforesta-dev/game-framework)** | 2D arcade game with a real-time game loop, collisions and growing speed. | Python · Arcade | [Demo](https://youtu.be/aykXpQkhkLk) |
+| **[Italian Flashcards](https://github.com/fforesta-dev/mobile-app)** | Android app to learn Italian expressions, with local persistence and dark mode. | Kotlin · Android | [Demo](https://youtu.be/eF-YRE_ieXg) |
+| **[Cloud To-Do](https://github.com/fforesta-dev/cloud-databases)** | CLI app with full CRUD on related collections in the cloud. | Python · Firestore | [Demo](https://youtu.be/h_fRlOW_Ld4) |
 
-Feel free to explore my repositories and connect!
+---
 
-**Building at the intersection of technology, learning, and languages.** 🚀
+## 🛠️ Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,cs,dotnet,py,kotlin,supabase,postgres,firebase,mongodb,azure,vercel,git&perline=8" alt="Tech stack"/>
+</p>
+<p align="center"><b>Mobile:</b> Expo · React Native · EAS Build &amp; Submit · App Store Connect · Google Play Console</p>
+
+---
+
+## 🌍 Beyond code
+
+I'm a **Senior Learning & Development Coordinator** for global teams, and I come from years of **translation and localization (EN · IT · FR)**. It shows in what I build: apps that teach, and that ship in more than one language from day one.
+
+**Graduated**
+- 🎓 **Software Development** · Brigham Young University–Idaho
+- 🎓 **Applied Linguistic Mediation (Interpreting and Translation)** · University of Perugia
+- 📜 Three postgraduate master's in translation (audiovisual, literary, specialized)
+
+**Studying now**
+- 📚 **Information Technology – System Administration** · BYU-Pathway Worldwide (BYU–Idaho · Ensign College)
+- 🔐 **MSc Cyber Security** · University of Liverpool (from November 2026)
+- 💻 **Full-Stack AI Developer** · Epicode
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fforesta-dev&theme=github_dark" alt="GitHub activity"/>
+</p>
+
+<p align="center"><i>Building at the intersection of technology, learning and languages.</i></p>
