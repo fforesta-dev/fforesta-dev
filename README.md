@@ -35,9 +35,9 @@ A free, unofficial study companion: all 15 books with chapter guides, a daily st
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/lehiquest-110-1.jpg" width="230" alt="LehiQuest: book cover"/>
-  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/lehiquest-110-2.jpg" width="230" alt="LehiQuest: today's chapter"/>
-  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/lehiquest-110-3.jpg" width="230" alt="LehiQuest: quiz"/>
+  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/lehiquest-120-1.jpg" width="230" alt="LehiQuest: book cover"/>
+  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/lehiquest-120-2.jpg" width="230" alt="LehiQuest: today's chapter, step by step"/>
+  <img src="https://raw.githubusercontent.com/fforesta-dev/fforesta-dev/main/assets/lehiquest-120-3.jpg" width="230" alt="LehiQuest: quiz"/>
 </p>
 
 <table>
